@@ -1,0 +1,1332 @@
+[
+  {
+    "gig": [
+      {
+        "id": "abd552fb-f870-4217-b008-e29b226b251f",
+        "title": "Web Developer",
+        "description": "Design and develop stunning websites",
+        "created_at": "2023-09-12T04:47:55.795Z",
+        "updated_at": "2023-09-11T13:13:30.417Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "dbc1ec95-a580-4c05-8dab-7499e08010ee",
+        "title": "Graphic Designer",
+        "description": "Create visually appealing graphics",
+        "created_at": "2023-09-12T03:36:48.809Z",
+        "updated_at": "2023-09-11T14:17:01.417Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "84e64d4c-810a-4c12-85ff-41715b2879c1",
+        "title": "Marketing Specialist",
+        "description": "Develop effective marketing strategies",
+        "created_at": "2023-09-12T01:39:41.107Z",
+        "updated_at": "2023-09-12T03:47:12.819Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "fbc32041-23cb-48cd-babc-518fbf6b8e0d",
+        "title": "Data Analyst",
+        "description": "Analyze and interpret data for insights",
+        "created_at": "2023-09-12T00:16:57.383Z",
+        "updated_at": "2023-09-12T08:42:26.690Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "b0a17842-63f2-481f-b5ec-cced5ddbd714",
+        "title": "Project Manager",
+        "description": "Manage projects and teams efficiently",
+        "created_at": "2023-09-11T18:23:54.783Z",
+        "updated_at": "2023-09-11T14:56:34.310Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "bid": [
+      {
+        "id": "9303c792-88ca-40f3-9149-efc9fd4f1d13",
+        "amount": 37969,
+        "created_at": "2023-09-11T09:52:19.281Z",
+        "updated_at": "2023-09-12T07:04:50.800Z",
+        "gig_id": "b0a17842-63f2-481f-b5ec-cced5ddbd714",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da05aac3-14b3-4e91-bb11-aa1746175e04",
+        "amount": 21531,
+        "created_at": "2023-09-12T08:22:43.195Z",
+        "updated_at": "2023-09-12T04:51:11.625Z",
+        "gig_id": "abd552fb-f870-4217-b008-e29b226b251f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca5337d7-5066-4d04-b8f9-1b86f3f6b9c3",
+        "amount": 80212,
+        "created_at": "2023-09-11T18:14:21.381Z",
+        "updated_at": "2023-09-11T10:51:09.004Z",
+        "gig_id": "84e64d4c-810a-4c12-85ff-41715b2879c1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34cf29b1-6c61-4d98-be4f-29633fc8d019",
+        "amount": 4451,
+        "created_at": "2023-09-12T06:21:42.370Z",
+        "updated_at": "2023-09-11T22:04:16.230Z",
+        "gig_id": "abd552fb-f870-4217-b008-e29b226b251f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e3fcb22-ec4a-4afd-a04e-a6e05cc3b292",
+        "amount": 65664,
+        "created_at": "2023-09-11T17:54:14.099Z",
+        "updated_at": "2023-09-12T04:07:22.885Z",
+        "gig_id": "84e64d4c-810a-4c12-85ff-41715b2879c1",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a0c265e8-34ab-43e3-948d-6f8d1cad8f82",
+        "email": "Bonita.Runolfsdottir@yahoo.com",
+        "firstName": "Alicia",
+        "lastName": "Schultz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/960.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5f059e6a-4c6c-4ae5-bacf-a5ef37062b77",
+        "email": "Devan.Lockman51@gmail.com",
+        "firstName": "Idell",
+        "lastName": "Pacocha",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/721.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2aec505c-fc11-4736-9e85-fcc70187d341",
+        "email": "Talon_Kertzmann@yahoo.com",
+        "firstName": "Harmony",
+        "lastName": "Nolan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1081.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b2df00a9-0175-4087-9f69-09e1d233c15c",
+        "email": "Ewell_Corkery10@gmail.com",
+        "firstName": "Johnpaul",
+        "lastName": "Leuschke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55141876",
+        "tenantId": null
+      },
+      {
+        "reference": "c63ad0e3-2349-47c7-8504-a8d8ba8ea3bf",
+        "email": "Kennedy.Howe@hotmail.com",
+        "firstName": "Don",
+        "lastName": "Glover",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45715454",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "gig": [
+      {
+        "id": "5fe0aac0-4a1d-4b07-92b9-8eb3939f213a",
+        "title": "Frontend Developer",
+        "description": "Seeking a skilled frontend developer with experience in React",
+        "created_at": "2023-09-11T09:45:39.879Z",
+        "updated_at": "2023-09-11T18:02:24.925Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "8a1a8b9c-2d5d-4c52-bf7f-b459cdfd4524",
+        "title": "Marketing Specialist",
+        "description": "Looking for a creative marketing specialist to drive brand awareness",
+        "created_at": "2023-09-12T04:45:06.609Z",
+        "updated_at": "2023-09-11T17:48:29.675Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "3600f631-970f-4c1c-85d0-d8f766dac487",
+        "title": "Data Analyst",
+        "description": "Hiring a data analyst to analyze and interpret large datasets",
+        "created_at": "2023-09-11T16:28:15.196Z",
+        "updated_at": "2023-09-11T18:57:00.764Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "93cd9d25-e22e-4897-829f-c2aaded63be4",
+        "title": "UX/UI Designer",
+        "description": "Seeking a talented UX/UI designer to create intuitive user interfaces",
+        "created_at": "2023-09-12T05:19:12.595Z",
+        "updated_at": "2023-09-11T09:12:39.429Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "b74602b0-5f70-4e87-8c68-ef5e0c9ea104",
+        "title": "Project Manager",
+        "description": "Looking for a detail-oriented project manager to oversee multiple projects",
+        "created_at": "2023-09-11T09:36:02.786Z",
+        "updated_at": "2023-09-12T00:07:41.768Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "bid": [
+      {
+        "id": "56e188a1-ad9e-40a9-a216-ef4e8a7f0be5",
+        "amount": 52456,
+        "created_at": "2023-09-11T20:40:20.185Z",
+        "updated_at": "2023-09-12T03:07:35.142Z",
+        "gig_id": "93cd9d25-e22e-4897-829f-c2aaded63be4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e124f0f-affd-47eb-8cb5-46df2b38a3ad",
+        "amount": 12614,
+        "created_at": "2023-09-12T03:15:18.917Z",
+        "updated_at": "2023-09-12T03:34:08.418Z",
+        "gig_id": "b74602b0-5f70-4e87-8c68-ef5e0c9ea104",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "756d4b83-13fe-4502-8a9c-df6e8426c308",
+        "amount": 59150,
+        "created_at": "2023-09-11T09:32:29.641Z",
+        "updated_at": "2023-09-12T03:58:07.379Z",
+        "gig_id": "b74602b0-5f70-4e87-8c68-ef5e0c9ea104",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba47e8db-dd39-4b69-b63c-16681edfd5a0",
+        "amount": 90796,
+        "created_at": "2023-09-11T22:34:44.718Z",
+        "updated_at": "2023-09-12T00:13:14.622Z",
+        "gig_id": "3600f631-970f-4c1c-85d0-d8f766dac487",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4a6f9bd-93c0-4661-abe3-2ce72787ab52",
+        "amount": 13963,
+        "created_at": "2023-09-11T10:32:09.738Z",
+        "updated_at": "2023-09-11T16:16:35.420Z",
+        "gig_id": "8a1a8b9c-2d5d-4c52-bf7f-b459cdfd4524",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "38e6f8b6-8632-40c8-8551-cba816566eab",
+        "email": "Santino_Nitzsche39@gmail.com",
+        "firstName": "Dashawn",
+        "lastName": "Turcotte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1233.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "478ae121-dece-4551-9102-5dcbd1bff332",
+        "email": "Bruce_Mohr@yahoo.com",
+        "firstName": "Kylie",
+        "lastName": "Hahn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/6.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6db6491c-d16b-4b71-a7e3-6134b8f0a3e8",
+        "email": "Joanne.Kutch@yahoo.com",
+        "firstName": "Lucie",
+        "lastName": "Mohr",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23193208",
+        "tenantId": null
+      },
+      {
+        "reference": "cc8dae22-8a07-4aa5-9abf-23a851abd18a",
+        "email": "Gust51@gmail.com",
+        "firstName": "Lisette",
+        "lastName": "Larson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/732.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "221cc9d4-2c32-4bbd-aa24-820a750f307b",
+        "email": "Evangeline_Cremin-Harber@gmail.com",
+        "firstName": "Polly",
+        "lastName": "Fahey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/252.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "gig": [
+      {
+        "id": "21120744-a37d-4e3b-877d-52447808fdf6",
+        "title": "Web Developer",
+        "description": "Seeking a skilled web developer for an exciting project",
+        "created_at": "2023-09-12T02:46:32.202Z",
+        "updated_at": "2023-09-11T12:23:24.715Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "54d43912-0cb7-4a3e-8bba-6332fbc9a1b2",
+        "title": "Graphic Designer",
+        "description": "Looking for a talented graphic designer to join our team",
+        "created_at": "2023-09-11T18:30:09.190Z",
+        "updated_at": "2023-09-11T10:57:51.054Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "2a7e8cde-f839-4491-9777-70fa0032bbcc",
+        "title": "Marketing Specialist",
+        "description": "Hiring a marketing specialist to boost our brand",
+        "created_at": "2023-09-12T06:44:39.162Z",
+        "updated_at": "2023-09-11T19:48:34.192Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "8567e94e-e89f-4390-8dc0-9a1fd8112057",
+        "title": "Data Analyst",
+        "description": "Seeking a data analyst to analyze and interpret data",
+        "created_at": "2023-09-11T13:03:58.793Z",
+        "updated_at": "2023-09-11T20:22:42.900Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "feb8450c-be18-467a-9e68-68f3dc068940",
+        "title": "Project Manager",
+        "description": "Looking for a project manager to lead our team",
+        "created_at": "2023-09-11T17:43:50.112Z",
+        "updated_at": "2023-09-11T22:36:56.427Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "bid": [
+      {
+        "id": "ee3aea34-c9c8-42a3-8c29-b0bfccb3f7cd",
+        "amount": 96563,
+        "created_at": "2023-09-12T01:27:21.871Z",
+        "updated_at": "2023-09-11T12:45:07.862Z",
+        "gig_id": "54d43912-0cb7-4a3e-8bba-6332fbc9a1b2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9c638737-0fb7-46e8-a637-460c7ce651f6",
+        "amount": 10722,
+        "created_at": "2023-09-12T00:13:28.483Z",
+        "updated_at": "2023-09-12T08:06:56.341Z",
+        "gig_id": "feb8450c-be18-467a-9e68-68f3dc068940",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a31c9b4d-109b-4588-8649-707984c09665",
+        "amount": 2175,
+        "created_at": "2023-09-12T05:21:52.043Z",
+        "updated_at": "2023-09-11T11:52:52.521Z",
+        "gig_id": "2a7e8cde-f839-4491-9777-70fa0032bbcc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "069a4074-000c-40e9-b70f-e560d02be7e1",
+        "amount": 65272,
+        "created_at": "2023-09-12T01:57:51.173Z",
+        "updated_at": "2023-09-11T10:18:20.202Z",
+        "gig_id": "feb8450c-be18-467a-9e68-68f3dc068940",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb3f457c-12e4-47ce-9a9f-6758dfc2f0e5",
+        "amount": 72919,
+        "created_at": "2023-09-11T22:13:00.218Z",
+        "updated_at": "2023-09-12T07:43:59.486Z",
+        "gig_id": "8567e94e-e89f-4390-8dc0-9a1fd8112057",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f566fa7b-add0-4ed3-8c67-539cfa23d869",
+        "email": "Angeline_Kutch@gmail.com",
+        "firstName": "June",
+        "lastName": "Lockman-Lakin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10281510",
+        "tenantId": null
+      },
+      {
+        "reference": "c42cc3a5-df2a-4000-8bb3-054b12ce9682",
+        "email": "Tyrel55@yahoo.com",
+        "firstName": "Dante",
+        "lastName": "Kerluke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74186376",
+        "tenantId": null
+      },
+      {
+        "reference": "b4c72d46-fe4b-474b-a2a2-58216112d8ce",
+        "email": "Ethelyn.Altenwerth91@hotmail.com",
+        "firstName": "Kameron",
+        "lastName": "Jacobi",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32099404",
+        "tenantId": null
+      },
+      {
+        "reference": "15108460-6352-4d8b-9667-559a6b0985a3",
+        "email": "Joseph_Treutel39@yahoo.com",
+        "firstName": "Sabina",
+        "lastName": "Feest",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1068.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "90188bce-f076-4081-8697-cedfbd9f8751",
+        "email": "Ana84@gmail.com",
+        "firstName": "Rod",
+        "lastName": "McCullough",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/668.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "gig": [
+      {
+        "id": "d0fdea5a-c070-4365-8eba-8136b4e65e17",
+        "title": "Web Developer",
+        "description": "Creating stunning websites for clients",
+        "created_at": "2023-09-11T10:32:10.825Z",
+        "updated_at": "2023-09-11T16:23:09.984Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "2c5fe5e9-22ad-4f45-90d0-df8c94fd780c",
+        "title": "Graphic Designer",
+        "description": "Designing captivating visuals for branding",
+        "created_at": "2023-09-11T12:46:19.516Z",
+        "updated_at": "2023-09-11T09:30:25.531Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "35712167-18ca-430d-b552-ef31d7f56f10",
+        "title": "Marketing Specialist",
+        "description": "Driving growth through strategic marketing campaigns",
+        "created_at": "2023-09-11T11:58:27.637Z",
+        "updated_at": "2023-09-11T19:50:03.199Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "a91bd6b2-bdad-474c-b8ff-c59a6838a94a",
+        "title": "Data Analyst",
+        "description": "Analyzing data to uncover valuable insights",
+        "created_at": "2023-09-11T19:11:57.899Z",
+        "updated_at": "2023-09-12T01:25:00.079Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "e27a4075-d919-4e50-a4d5-13b3bd3c4198",
+        "title": "Project Manager",
+        "description": "Managing projects to ensure successful delivery",
+        "created_at": "2023-09-11T20:44:00.068Z",
+        "updated_at": "2023-09-11T17:09:45.425Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "bid": [
+      {
+        "id": "53121eea-d19b-431a-b88f-6f42e0b44f08",
+        "amount": 10458,
+        "created_at": "2023-09-12T01:08:13.321Z",
+        "updated_at": "2023-09-11T15:31:16.711Z",
+        "gig_id": "a91bd6b2-bdad-474c-b8ff-c59a6838a94a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4bb9c8d1-8fd5-4a4d-8454-b7b8757aad89",
+        "amount": 66811,
+        "created_at": "2023-09-11T20:06:16.729Z",
+        "updated_at": "2023-09-11T16:39:29.710Z",
+        "gig_id": "a91bd6b2-bdad-474c-b8ff-c59a6838a94a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a26e806-72c7-4106-8ed1-32eab83c7b61",
+        "amount": 48594,
+        "created_at": "2023-09-11T17:17:35.300Z",
+        "updated_at": "2023-09-11T19:41:57.923Z",
+        "gig_id": "35712167-18ca-430d-b552-ef31d7f56f10",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7246a77-e4a5-45d5-b89d-c48d12b9f010",
+        "amount": 18941,
+        "created_at": "2023-09-12T01:51:41.976Z",
+        "updated_at": "2023-09-12T04:46:47.790Z",
+        "gig_id": "d0fdea5a-c070-4365-8eba-8136b4e65e17",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "07021abc-41a1-4064-8d03-6b0703278c1a",
+        "amount": 89124,
+        "created_at": "2023-09-11T21:08:08.740Z",
+        "updated_at": "2023-09-12T07:40:38.772Z",
+        "gig_id": "2c5fe5e9-22ad-4f45-90d0-df8c94fd780c",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3229a514-be68-41ff-b4a8-886a30184626",
+        "email": "Kathryne94@gmail.com",
+        "firstName": "Marguerite",
+        "lastName": "Bayer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/228.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5f96af6e-32e3-42cf-a5a8-8dbb17af2624",
+        "email": "Rickey_Muller72@hotmail.com",
+        "firstName": "Alexane",
+        "lastName": "Mraz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/512.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dee96f54-eba2-4ad8-ac73-79c04ccb3b3e",
+        "email": "Alize_White@hotmail.com",
+        "firstName": "Trinity",
+        "lastName": "Funk",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1146.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1a97626b-16f2-45e8-bcde-8060e405ea5a",
+        "email": "Zoey.Fisher91@yahoo.com",
+        "firstName": "Amalia",
+        "lastName": "Hudson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/617.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e730d52f-430d-437b-b647-bc87c64819f7",
+        "email": "Damien_Kessler@gmail.com",
+        "firstName": "Oda",
+        "lastName": "Kirlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/287.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "gig": [
+      {
+        "id": "eda5e1b7-052b-405a-b83f-28831350ef10",
+        "title": "Web Developer",
+        "description": "Exciting opportunity for a skilled web developer",
+        "created_at": "2023-09-12T07:13:32.779Z",
+        "updated_at": "2023-09-12T01:43:58.274Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "582f2823-12f6-4a17-88ca-860657adc872",
+        "title": "Graphic Designer",
+        "description": "Seeking a talented graphic designer for our team",
+        "created_at": "2023-09-11T16:59:22.491Z",
+        "updated_at": "2023-09-12T03:23:12.930Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "ebb82faf-f372-4a7f-9bd0-2a60ff98ceb8",
+        "title": "Marketing Specialist",
+        "description": "Join our marketing team and make an impact",
+        "created_at": "2023-09-12T02:48:09.463Z",
+        "updated_at": "2023-09-11T22:19:18.439Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "bf05a31a-8a0c-4daf-a2b4-ad8b68aff27e",
+        "title": "Data Analyst",
+        "description": "Data-driven role for a detail-oriented analyst",
+        "created_at": "2023-09-11T12:12:00.615Z",
+        "updated_at": "2023-09-12T05:15:53.789Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "876641f6-1a36-4dd4-8e83-7a8b3c6fb075",
+        "title": "Project Manager",
+        "description": "Lead projects and drive success as a project manager",
+        "created_at": "2023-09-11T18:26:14.055Z",
+        "updated_at": "2023-09-12T02:34:49.820Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "bid": [
+      {
+        "id": "a09def7c-5a73-4932-b82f-c0a648dfe4da",
+        "amount": 4894,
+        "created_at": "2023-09-12T04:15:12.442Z",
+        "updated_at": "2023-09-12T08:41:37.262Z",
+        "gig_id": "eda5e1b7-052b-405a-b83f-28831350ef10",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42db00c4-88ef-4eba-bddc-42ae57aa4067",
+        "amount": 74484,
+        "created_at": "2023-09-11T20:47:11.280Z",
+        "updated_at": "2023-09-11T15:39:44.649Z",
+        "gig_id": "ebb82faf-f372-4a7f-9bd0-2a60ff98ceb8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f15fed05-9792-4062-9091-425983955575",
+        "amount": 69417,
+        "created_at": "2023-09-11T17:47:09.283Z",
+        "updated_at": "2023-09-12T04:36:53.970Z",
+        "gig_id": "bf05a31a-8a0c-4daf-a2b4-ad8b68aff27e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6117987d-1a39-483f-8cb6-e4868a272ee9",
+        "amount": 15418,
+        "created_at": "2023-09-12T04:14:13.620Z",
+        "updated_at": "2023-09-11T16:21:56.471Z",
+        "gig_id": "876641f6-1a36-4dd4-8e83-7a8b3c6fb075",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "21153d79-bad4-4961-81c9-50386cea3a33",
+        "amount": 77382,
+        "created_at": "2023-09-12T00:01:58.751Z",
+        "updated_at": "2023-09-12T01:01:36.195Z",
+        "gig_id": "582f2823-12f6-4a17-88ca-860657adc872",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "657caa66-b110-4a72-a0e1-f60778699f37",
+        "email": "Delbert_Gusikowski2@hotmail.com",
+        "firstName": "Gilda",
+        "lastName": "Emmerich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/110.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "567128d0-2e99-41a5-ada7-505de219ee82",
+        "email": "Hermina35@gmail.com",
+        "firstName": "Earnestine",
+        "lastName": "Lind",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41279479",
+        "tenantId": null
+      },
+      {
+        "reference": "91b4b24f-2f05-4f7f-aa4d-d35438df100e",
+        "email": "Keely_Bosco44@hotmail.com",
+        "firstName": "Izabella",
+        "lastName": "Block",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/442847",
+        "tenantId": null
+      },
+      {
+        "reference": "2c004f46-d691-4df9-85bf-facc4c5f8f1d",
+        "email": "Oswaldo_Heller82@yahoo.com",
+        "firstName": "Hannah",
+        "lastName": "Von",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62988241",
+        "tenantId": null
+      },
+      {
+        "reference": "7116f064-c5d6-4e14-8fe4-780d1db041e4",
+        "email": "Blair_Windler9@hotmail.com",
+        "firstName": "Ettie",
+        "lastName": "Lemke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/552.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "gig": [
+      {
+        "id": "870b9466-d215-4f4f-9c2a-ca768a8e283e",
+        "title": "Web Developer",
+        "description": "Seeking a skilled web developer for an exciting project",
+        "created_at": "2023-09-12T00:30:21.064Z",
+        "updated_at": "2023-09-12T02:25:57.883Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "9cbd2e65-c0cf-4708-ad4c-b972f9bcf232",
+        "title": "Marketing Specialist",
+        "description": "Looking for a creative marketing specialist to join our team",
+        "created_at": "2023-09-11T23:40:11.027Z",
+        "updated_at": "2023-09-11T20:47:43.148Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "9058da01-0f8f-4c93-ab80-fdfcb3a34cfd",
+        "title": "Graphic Designer",
+        "description": "Hiring a talented graphic designer to design our new brand identity",
+        "created_at": "2023-09-11T12:19:25.486Z",
+        "updated_at": "2023-09-11T16:56:50.381Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "6449ce8c-c392-4b9c-9aad-8fba7c613529",
+        "title": "Data Analyst",
+        "description": "Seeking a data analyst to analyze and interpret data",
+        "created_at": "2023-09-11T21:34:51.838Z",
+        "updated_at": "2023-09-12T04:42:01.795Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "854a8424-1afc-447f-9a01-02aca8c0c9ba",
+        "title": "Project Manager",
+        "description": "Looking for an experienced project manager to oversee project delivery",
+        "created_at": "2023-09-12T04:45:39.918Z",
+        "updated_at": "2023-09-12T01:47:38.063Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "bid": [
+      {
+        "id": "13afc88f-6fdc-4337-b605-b61fcb50815b",
+        "amount": 31690,
+        "created_at": "2023-09-11T19:16:14.947Z",
+        "updated_at": "2023-09-12T02:46:06.014Z",
+        "gig_id": "870b9466-d215-4f4f-9c2a-ca768a8e283e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "909d4cb0-30e3-4190-b8da-f6e9369ebc52",
+        "amount": 1969,
+        "created_at": "2023-09-12T02:35:04.420Z",
+        "updated_at": "2023-09-12T06:13:18.024Z",
+        "gig_id": "9cbd2e65-c0cf-4708-ad4c-b972f9bcf232",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cf3e1f82-0de8-47d8-82af-4a0472b359ed",
+        "amount": 19301,
+        "created_at": "2023-09-11T18:57:19.873Z",
+        "updated_at": "2023-09-12T02:27:07.579Z",
+        "gig_id": "9058da01-0f8f-4c93-ab80-fdfcb3a34cfd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1c3017b4-bbd0-4e36-ba8f-57c37027217e",
+        "amount": 59858,
+        "created_at": "2023-09-12T07:02:38.165Z",
+        "updated_at": "2023-09-11T18:18:44.134Z",
+        "gig_id": "9cbd2e65-c0cf-4708-ad4c-b972f9bcf232",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7658664-73ee-43cd-b58f-511bd4983eea",
+        "amount": 4406,
+        "created_at": "2023-09-11T13:55:10.538Z",
+        "updated_at": "2023-09-11T22:37:09.821Z",
+        "gig_id": "870b9466-d215-4f4f-9c2a-ca768a8e283e",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "258a155d-7727-47b9-84db-a15ea0c1d018",
+        "email": "Della99@gmail.com",
+        "firstName": "Meaghan",
+        "lastName": "Howell",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13313363",
+        "tenantId": null
+      },
+      {
+        "reference": "84aac61f-8503-4a07-b6dd-07086925e07f",
+        "email": "Cindy97@hotmail.com",
+        "firstName": "Taurean",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2749275",
+        "tenantId": null
+      },
+      {
+        "reference": "2b2f5392-74cb-4bda-8bb9-1e251b39bad6",
+        "email": "Micaela.Bayer44@yahoo.com",
+        "firstName": "Willa",
+        "lastName": "Marvin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20884034",
+        "tenantId": null
+      },
+      {
+        "reference": "063bf118-7c86-4b3f-9719-19450f042565",
+        "email": "Eldred28@gmail.com",
+        "firstName": "Amelia",
+        "lastName": "Wisozk",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1062.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c6c2a28f-ffbd-4e14-81c3-054532c05e6f",
+        "email": "Dejah77@gmail.com",
+        "firstName": "Marty",
+        "lastName": "Gislason",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47575483",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "gig": [
+      {
+        "id": "eb7d7be5-3f5d-4a04-af78-652c76fc12b1",
+        "title": "Web Developer",
+        "description": "Seeking a skilled web developer for an exciting project",
+        "created_at": "2023-09-11T13:14:13.066Z",
+        "updated_at": "2023-09-12T00:33:35.021Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "93d06f76-4690-48d6-a7b9-206b1bafb08c",
+        "title": "Marketing Specialist",
+        "description": "Looking for a creative marketing specialist to join our team",
+        "created_at": "2023-09-11T18:02:52.315Z",
+        "updated_at": "2023-09-12T04:37:59.943Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "832aad2a-f94b-4165-aea4-8ac3cd1bb7c0",
+        "title": "Data Analyst",
+        "description": "Hiring a data analyst to analyze and interpret data",
+        "created_at": "2023-09-11T22:18:21.342Z",
+        "updated_at": "2023-09-11T23:15:17.638Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "9812c7cc-b98a-408e-b5c9-a36b11998451",
+        "title": "UX Designer",
+        "description": "Seeking a talented UX designer to enhance user experience",
+        "created_at": "2023-09-11T13:07:07.021Z",
+        "updated_at": "2023-09-12T00:39:23.827Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "c5c82a45-a996-4f3b-9f74-0c7740d5a0c1",
+        "title": "Project Manager",
+        "description": "Looking for a detail-oriented project manager to oversee project execution",
+        "created_at": "2023-09-11T19:23:34.089Z",
+        "updated_at": "2023-09-12T01:16:33.152Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "bid": [
+      {
+        "id": "4a3368c9-d36a-4aad-a2b4-1a76640b2bf6",
+        "amount": 8634,
+        "created_at": "2023-09-12T01:33:13.813Z",
+        "updated_at": "2023-09-11T10:00:55.575Z",
+        "gig_id": "93d06f76-4690-48d6-a7b9-206b1bafb08c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3bbe6c3d-460a-431f-abbb-03c433e2f914",
+        "amount": 21180,
+        "created_at": "2023-09-11T21:25:01.265Z",
+        "updated_at": "2023-09-12T05:47:13.224Z",
+        "gig_id": "9812c7cc-b98a-408e-b5c9-a36b11998451",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "28f4192d-565c-469f-8891-f07064a9ad8d",
+        "amount": 33703,
+        "created_at": "2023-09-12T02:39:29.819Z",
+        "updated_at": "2023-09-11T21:01:36.062Z",
+        "gig_id": "93d06f76-4690-48d6-a7b9-206b1bafb08c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "026846ae-508e-4f42-959c-68d65a76b104",
+        "amount": 34967,
+        "created_at": "2023-09-11T11:15:15.365Z",
+        "updated_at": "2023-09-11T20:22:41.589Z",
+        "gig_id": "c5c82a45-a996-4f3b-9f74-0c7740d5a0c1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3cd6c07c-3f11-4714-882e-19978cba0fa7",
+        "amount": 40740,
+        "created_at": "2023-09-11T12:10:05.570Z",
+        "updated_at": "2023-09-11T18:08:00.891Z",
+        "gig_id": "93d06f76-4690-48d6-a7b9-206b1bafb08c",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d4e6e822-8021-4809-bd6e-9afc94b3b400",
+        "email": "Kyler_Goldner@yahoo.com",
+        "firstName": "Ulises",
+        "lastName": "Hills",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/769.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "88fb1e2e-dc4a-463c-8a85-52e61199a87f",
+        "email": "Evie_Roob@yahoo.com",
+        "firstName": "Jasper",
+        "lastName": "Price",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62656374",
+        "tenantId": null
+      },
+      {
+        "reference": "5e4b00ea-f47c-42f3-8070-63adf3903ff4",
+        "email": "Marlon_Moen92@yahoo.com",
+        "firstName": "Myles",
+        "lastName": "Schmidt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70040715",
+        "tenantId": null
+      },
+      {
+        "reference": "151cc066-0829-48d9-a433-1ec6f200822c",
+        "email": "Sabrina.Heaney50@yahoo.com",
+        "firstName": "Saige",
+        "lastName": "Jast",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/889.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c0c7c43b-e729-4904-9d74-390f58ef7725",
+        "email": "Laila_Pollich@gmail.com",
+        "firstName": "Cecil",
+        "lastName": "Conroy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/776.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "gig": [
+      {
+        "id": "128251db-68c6-438d-b997-08bebe973440",
+        "title": "Web Developer",
+        "description": "Join our team and create amazing websites",
+        "created_at": "2023-09-11T22:47:09.691Z",
+        "updated_at": "2023-09-11T09:10:36.374Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "534ab11e-f0f3-4709-9e5e-97fff35881d4",
+        "title": "Graphic Designer",
+        "description": "Design stunning visuals for our brand",
+        "created_at": "2023-09-12T05:45:39.779Z",
+        "updated_at": "2023-09-11T10:37:56.734Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "9ec1698e-04d0-46c0-9e97-94ea9945b207",
+        "title": "Marketing Specialist",
+        "description": "Drive growth through effective marketing strategies",
+        "created_at": "2023-09-11T20:17:34.764Z",
+        "updated_at": "2023-09-12T05:56:15.733Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "a93c8665-6681-4830-9e4f-4533f45b2abe",
+        "title": "Data Analyst",
+        "description": "Analyze data to uncover valuable insights",
+        "created_at": "2023-09-11T14:53:58.899Z",
+        "updated_at": "2023-09-11T15:46:37.184Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "d5c817d0-6304-499d-ae3c-6c60ffcc78eb",
+        "title": "Project Manager",
+        "description": "Lead and deliver successful projects",
+        "created_at": "2023-09-11T15:52:28.811Z",
+        "updated_at": "2023-09-11T17:34:51.526Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "bid": [
+      {
+        "id": "04ab671e-35da-4d32-acbe-fb6558a96352",
+        "amount": 64954,
+        "created_at": "2023-09-11T17:41:19.885Z",
+        "updated_at": "2023-09-11T10:21:33.171Z",
+        "gig_id": "128251db-68c6-438d-b997-08bebe973440",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "37d348ac-6400-4493-821f-540bcc02baf8",
+        "amount": 13980,
+        "created_at": "2023-09-12T02:56:35.165Z",
+        "updated_at": "2023-09-12T00:01:07.674Z",
+        "gig_id": "d5c817d0-6304-499d-ae3c-6c60ffcc78eb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1e83ff87-2249-492c-b8d6-f3906e5bd9a2",
+        "amount": 37060,
+        "created_at": "2023-09-11T11:26:53.889Z",
+        "updated_at": "2023-09-11T14:11:16.708Z",
+        "gig_id": "9ec1698e-04d0-46c0-9e97-94ea9945b207",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e821ccfb-9e6b-4a56-ba84-34a74d4aaeb9",
+        "amount": 5157,
+        "created_at": "2023-09-11T20:07:48.852Z",
+        "updated_at": "2023-09-11T11:31:49.297Z",
+        "gig_id": "d5c817d0-6304-499d-ae3c-6c60ffcc78eb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "75e2b25c-81d5-43f2-954b-cd659932b42d",
+        "amount": 71124,
+        "created_at": "2023-09-12T05:14:15.158Z",
+        "updated_at": "2023-09-12T06:58:31.798Z",
+        "gig_id": "9ec1698e-04d0-46c0-9e97-94ea9945b207",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8fb641bb-e6b0-43bd-8cdd-87b4b6e293ad",
+        "email": "Cloyd.Pfannerstill@yahoo.com",
+        "firstName": "Mac",
+        "lastName": "Volkman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96773474",
+        "tenantId": null
+      },
+      {
+        "reference": "40949591-1075-481e-ae80-30e1a683cb3a",
+        "email": "Jewell.Wunsch37@hotmail.com",
+        "firstName": "David",
+        "lastName": "Hoppe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24375330",
+        "tenantId": null
+      },
+      {
+        "reference": "ad38373d-4261-4bae-9944-f9ccce11d07b",
+        "email": "Janice35@yahoo.com",
+        "firstName": "Margarita",
+        "lastName": "Turner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62774704",
+        "tenantId": null
+      },
+      {
+        "reference": "aa7cc8ea-5b71-493d-9756-441140ef214b",
+        "email": "Joel.OHara@hotmail.com",
+        "firstName": "Ozella",
+        "lastName": "Cole",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48689285",
+        "tenantId": null
+      },
+      {
+        "reference": "568dd0da-f629-40d1-92b0-65ca3524ad1d",
+        "email": "Nikita88@yahoo.com",
+        "firstName": "Giuseppe",
+        "lastName": "Gutkowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/444.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "gig": [
+      {
+        "id": "6fec7bca-4362-4e57-b820-63f9b7ca724b",
+        "title": "Web Developer",
+        "description": "Seeking a skilled web developer",
+        "created_at": "2023-09-11T12:48:09.882Z",
+        "updated_at": "2023-09-12T00:22:23.259Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "143895e1-637b-486b-8f19-6bbaf980c8be",
+        "title": "Marketing Specialist",
+        "description": "Looking for a creative marketing specialist",
+        "created_at": "2023-09-11T15:17:42.847Z",
+        "updated_at": "2023-09-11T17:12:38.049Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "41867a6d-043d-4040-a2a1-c77be5a86ea2",
+        "title": "Graphic Designer",
+        "description": "Hiring a talented graphic designer",
+        "created_at": "2023-09-11T10:00:18.112Z",
+        "updated_at": "2023-09-11T17:08:07.425Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "0d21719e-305f-4ecd-b732-9f4bf62bd59e",
+        "title": "Data Analyst",
+        "description": "Data analysis expert needed",
+        "created_at": "2023-09-11T16:46:17.768Z",
+        "updated_at": "2023-09-11T15:38:09.482Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "8e5513ac-627c-4be1-8b74-f6fbdf561458",
+        "title": "Project Manager",
+        "description": "Experienced project manager required",
+        "created_at": "2023-09-11T16:59:31.087Z",
+        "updated_at": "2023-09-11T09:05:52.938Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "bid": [
+      {
+        "id": "51fac66f-cf96-4793-935d-224f8d22c7ff",
+        "amount": 43425,
+        "created_at": "2023-09-11T20:04:44.960Z",
+        "updated_at": "2023-09-11T15:01:06.456Z",
+        "gig_id": "8e5513ac-627c-4be1-8b74-f6fbdf561458",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7f918148-7bff-4933-aa00-88c76609025f",
+        "amount": 99391,
+        "created_at": "2023-09-11T17:18:03.477Z",
+        "updated_at": "2023-09-11T19:09:46.910Z",
+        "gig_id": "8e5513ac-627c-4be1-8b74-f6fbdf561458",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3641931c-d4fe-45ec-9750-825e6fbb3d0d",
+        "amount": 47518,
+        "created_at": "2023-09-11T09:25:57.116Z",
+        "updated_at": "2023-09-12T04:57:17.811Z",
+        "gig_id": "0d21719e-305f-4ecd-b732-9f4bf62bd59e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9afeb530-2915-44c9-9e71-cd2193be627c",
+        "amount": 53613,
+        "created_at": "2023-09-11T18:18:56.793Z",
+        "updated_at": "2023-09-11T09:15:47.597Z",
+        "gig_id": "6fec7bca-4362-4e57-b820-63f9b7ca724b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "964f1117-a26f-457f-9dc0-f4bd8c1838f5",
+        "amount": 94108,
+        "created_at": "2023-09-11T23:53:24.670Z",
+        "updated_at": "2023-09-12T03:42:38.895Z",
+        "gig_id": "8e5513ac-627c-4be1-8b74-f6fbdf561458",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3edbd95e-03c2-473b-832e-705b1474ae54",
+        "email": "Raegan_Ryan41@hotmail.com",
+        "firstName": "Otha",
+        "lastName": "Fay-Lakin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/331.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e3e376e6-b038-48cc-b12b-ac82c5a7cfd8",
+        "email": "Kenton37@gmail.com",
+        "firstName": "Felton",
+        "lastName": "Moore",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18028726",
+        "tenantId": null
+      },
+      {
+        "reference": "147ca8d9-ecfb-4adf-8e16-fd1d8266a107",
+        "email": "Timmothy64@yahoo.com",
+        "firstName": "Aleen",
+        "lastName": "Douglas",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44639277",
+        "tenantId": null
+      },
+      {
+        "reference": "56ab1d99-dbad-4720-9362-e7f92f1ce12e",
+        "email": "Franz.Stokes48@gmail.com",
+        "firstName": "Arnold",
+        "lastName": "Corwin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/466.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "12286c5f-8bae-4f7b-a0e5-b6ebf680bc72",
+        "email": "Tremayne_McLaughlin34@hotmail.com",
+        "firstName": "Ettie",
+        "lastName": "Jones-Beahan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/824.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "gig": [
+      {
+        "id": "7ecbec18-0b38-4e63-891c-fcc1c63461cb",
+        "title": "Frontend Developer",
+        "description": "Seeking a skilled frontend developer for an exciting project",
+        "created_at": "2023-09-11T12:00:52.239Z",
+        "updated_at": "2023-09-12T04:43:15.713Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "fa87cf49-2660-41bb-90a6-de5a2197e7f3",
+        "title": "Marketing Specialist",
+        "description": "Looking for a talented marketing specialist to join our team",
+        "created_at": "2023-09-11T16:33:36.521Z",
+        "updated_at": "2023-09-11T21:25:45.380Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "1298a1a3-e470-4eb6-a314-8f3b097afefe",
+        "title": "Data Analyst",
+        "description": "Hiring a data analyst to analyze and interpret complex data",
+        "created_at": "2023-09-12T02:34:53.947Z",
+        "updated_at": "2023-09-11T15:20:04.640Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "fc19e7da-b878-42fd-9f8f-11e4093e40fd",
+        "title": "UI/UX Designer",
+        "description": "Seeking a creative UI/UX designer to enhance user experience",
+        "created_at": "2023-09-11T19:02:32.699Z",
+        "updated_at": "2023-09-12T05:12:07.887Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "66ba8985-0fed-4c3d-a388-1ccb0f080a80",
+        "title": "Project Manager",
+        "description": "Looking for an experienced project manager to lead a team",
+        "created_at": "2023-09-11T14:21:47.821Z",
+        "updated_at": "2023-09-12T04:12:52.963Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "bid": [
+      {
+        "id": "fdae4a76-223f-4636-9903-27335ffbbc3c",
+        "amount": 51700,
+        "created_at": "2023-09-12T05:55:41.382Z",
+        "updated_at": "2023-09-11T16:29:43.488Z",
+        "gig_id": "1298a1a3-e470-4eb6-a314-8f3b097afefe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "058feac4-fb5f-458d-9981-7fa546b6bf5e",
+        "amount": 76601,
+        "created_at": "2023-09-11T23:46:04.682Z",
+        "updated_at": "2023-09-11T22:52:37.741Z",
+        "gig_id": "fa87cf49-2660-41bb-90a6-de5a2197e7f3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c442e363-7da2-4039-996e-61eb325a889d",
+        "amount": 89282,
+        "created_at": "2023-09-12T00:25:49.293Z",
+        "updated_at": "2023-09-11T09:18:07.836Z",
+        "gig_id": "66ba8985-0fed-4c3d-a388-1ccb0f080a80",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea4fef3d-5ad6-42cc-9b37-bf11a83e4969",
+        "amount": 75139,
+        "created_at": "2023-09-12T06:09:22.428Z",
+        "updated_at": "2023-09-12T01:02:42.703Z",
+        "gig_id": "fc19e7da-b878-42fd-9f8f-11e4093e40fd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a636ff1-5b05-4756-b9e3-dd2cc073d303",
+        "amount": 77741,
+        "created_at": "2023-09-11T13:24:56.117Z",
+        "updated_at": "2023-09-11T08:59:42.548Z",
+        "gig_id": "1298a1a3-e470-4eb6-a314-8f3b097afefe",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3256bb57-b574-44a2-a8c6-ee546c68d459",
+        "email": "Turner_Frami58@hotmail.com",
+        "firstName": "Rogers",
+        "lastName": "Russel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/159.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "50a70487-2b3b-45a9-983a-83faef3a409a",
+        "email": "Ashley.Bednar@gmail.com",
+        "firstName": "Lewis",
+        "lastName": "Hodkiewicz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64129972",
+        "tenantId": null
+      },
+      {
+        "reference": "3fa3c55f-a85d-49ec-9c6b-1645ed256f23",
+        "email": "Adell.Carter@hotmail.com",
+        "firstName": "Frank",
+        "lastName": "Smitham",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/431.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "54faa7b5-823a-4675-8b63-d7f35225ec61",
+        "email": "Jasen72@gmail.com",
+        "firstName": "Johnpaul",
+        "lastName": "Cole",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90689577",
+        "tenantId": null
+      },
+      {
+        "reference": "b60763d6-075c-456a-ac4c-cd7717da9889",
+        "email": "Caesar64@yahoo.com",
+        "firstName": "Romaine",
+        "lastName": "Gulgowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1016.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
